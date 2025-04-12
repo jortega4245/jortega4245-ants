@@ -49,7 +49,11 @@ usage: ants_text.py [-h] [-d DIFFICULTY] [-w] [--food FOOD]
 Play Ants vs. SomeBees
 
 optional arguments:
+
 -h, --help         show this help message and exit
+
 -d DIFFICULTY      sets difficulty (test/easy/medium/hard/extra-hard)
+
 -w, --water        loads a full layout with water
+
 --food FOOD        starting food amount for testing
